@@ -25,7 +25,7 @@ The primary goal here is save Leetcode solution of many language.
 ## 401-500
 + **401.Binary-Watch**</br>
 	Solution.cpp
-+ **442.Find-All-Duplicates-in-an-Array**</br>  
++ **442.Find-All-Duplicates-in-an-Array**</br> 
 	Solution.cpp
 ## 501-600
 ## 601-700
