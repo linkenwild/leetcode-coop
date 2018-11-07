@@ -4,10 +4,10 @@ The primary goal here is save Leetcode solution of many language.
 # Uploaded items
 
 ## 000-100
-+ 001.Two-Sum 
++ 001.Two-Sum     
 	Solution.cpp
 	Solution.py
-+ 002.Add-Two-Numbers 
++ 002.Add-Two-Numbers    
 	Solution.cpp
 	Solution.py
 ## 101-200
