@@ -38,3 +38,6 @@ The following people have helped with suggestions, ideas, code or fixing bugs:
 ----
 
 + pyclear
+
+# Contact me.
+	Email: jxdeng3989@163.com
