@@ -12,29 +12,71 @@ The primary goal here is save Leetcode solution of many language.
 	Solution.py   
 +  **003.Longest-Substring-Without-Repeating-Characters**</br>
 	Solution.c  
++  **015.3-Sum**</br>
+	tango.c  
+
 ## 101-200
 + **102.Binary-Tree-Level-Order-Traversal**</br>
 	Solution.cpp   
 + **104.Maximum-Depth-of-Binary-Tree**</br>
 	Solution.cpp 
++ **112.Path-Sum**</br>
+	tango.cpp  
 
 ## 201-300
++  **238.Product-of-Array-Except-Self**</br>
+	tango.cpp  
++  **275.H-Index-II**</br>
+	tango.cpp  
+
 ## 301-400
 + **303.Range-Sum-Query-Immutable**</br>
 	Solution.cpp
 + **304.Range-Sum-Query-2D-Immutable**</br>
-	Solution.cpp
-## 401-500
+	Solution.cpp  
+
+## 401-500 
 + **401.Binary-Watch**</br>
 	Solution.cpp
 + **442.Find-All-Duplicates-in-an-Array**</br>
-	Solution.cpp
-## 501-600
-## 601-700
-## 701-800
-## 801-900
-## 901-1000
+	Solution.cpp  
++ **445.Add-Two-Numbers-II**</br>
+	Solution.cpp  
 
+## 501-600  
++  **501.Find-Mode-in-Binary-Search-Tree**</br>
+	Solution.cpp   
++  **507.Base-7**</br>
+	Solution.cpp  
++  **557.Reverse-Words-in-a-String-III**</br>
+	tango.cpp  
+
+## 601-700
++  **637.Average-of-Levels-in-Binary-Tree**</br>
+	Solution.cpp  
++ **643.Maximum-Average-Subarray-I**</br>
+	Solution.cpp  
++ **657.Robot-Return-to-Origin**</br>
+	Solution.cpp  
+## 701-800
++  **706.Design-HashMap**</br>
+	Solution.cpp  
++  **707.Design-Linked-List**</br>
+	Solution.cpp  
++  **709.To-Lower-Case**</br>
+	Solution.cpp  
+
+## 801-900
++  **804.Unique-Morse-Code-Words**</br>
+	Solution..cpp  
+
+## 901-1000
++  **929.Unique-Email-Addresses**</br>
+	Solution.cpp  
++  **966.Vowel-Spellchecker**</br>
+	tango.cpp  
++  **977.Squares-of-a-Sorted-Array**</br>
+	tango.cpp
 
 
 # 1.协作说明  
