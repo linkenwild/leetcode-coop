@@ -5,15 +5,30 @@ The primary goal here is save Leetcode solution of many language.
 
 ## 000-100
 + **001.Two-Sum**</br>
-	Solution.cpp</br>
-	Solution.py</br>
+  Solution.cpp</br>
+  Solution.py</br>
+
 + **002.Add-Two-Numbers**</br>
-	Solution.cpp   
-	Solution.py   
-+  **003.Longest-Substring-Without-Repeating-Characters**</br>
-	Solution.c  
-+  **015.3-Sum**</br>
-	tango.c  
+  Solution.cpp   
+  Solution.py   
+
++ **003.Longest-Substring-Without-Repeating-Characters**</br>
+  Solution.c  
+
++ **004.Median-of-Two-Sorted-Arrays**  
+
+  tango.cpp
+
++ **005.Longest Palindromic Substring**
+
+  tango.cpp
+
++ **006.ZigZag Conversion]**
+
+  tango.cpp
+
++ **015.3-Sum**</br>
+  tango.c  
 
 ## 101-200
 + **102.Binary-Tree-Level-Order-Traversal**</br>
